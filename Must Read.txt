@@ -1,0 +1,7 @@
+If you can't run the code, try to install 2 library:
+pip install os-sys
+pip install tk
+Open and run Member_imformation_import and Member_searching.
+file CSV have 5 students and their information, for searching their information, try to type their name on the "Tra cứu theo tên".
+
+P/s: If you try to type in Vietnamese, the program will error.
